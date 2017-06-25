@@ -1,0 +1,5 @@
+*.swp
+*.tar.gz
+*~
+.build/
+.tidyall.d/
